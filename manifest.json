@@ -1,0 +1,118 @@
+{
+ "files": {
+  "ADAUSDT_1h.csv.gz": {
+   "added": 9,
+   "first_t": 1698638400000,
+   "last_t": 1793566800000,
+   "rows": 26370,
+   "sha256": "d999a56c3e1eab76fe8117010f46e183fec953802def8c6eae862018e7304e9b"
+  },
+  "ADAUSDT_4h.csv.gz": {
+   "added": 2,
+   "first_t": 1698638400000,
+   "last_t": 1793548800000,
+   "rows": 6592,
+   "sha256": "9c9a7fbbe76d93c963f97cc45b6ad24a2d39d7a8ebd2af74b8ae93a3ba2f9e52"
+  },
+  "AVAXUSDT_1h.csv.gz": {
+   "added": 9,
+   "first_t": 1698638400000,
+   "last_t": 1793566800000,
+   "rows": 26370,
+   "sha256": "8e5a19122fef6152b8bbcbe09c620a82a9282858a74416c10d17af28291e3126"
+  },
+  "AVAXUSDT_4h.csv.gz": {
+   "added": 2,
+   "first_t": 1698638400000,
+   "last_t": 1793548800000,
+   "rows": 6592,
+   "sha256": "1b7485263eda31b55ec04005627417b69463e856e73001aed2e641cba4fe1dda"
+  },
+  "BNBUSDT_1h.csv.gz": {
+   "added": 9,
+   "first_t": 1698638400000,
+   "last_t": 1793566800000,
+   "rows": 26370,
+   "sha256": "ebd680c6f269a83de7b459b1e0c0b61cf32ea19e4c78762a3fafcb59b1f25898"
+  },
+  "BNBUSDT_4h.csv.gz": {
+   "added": 2,
+   "first_t": 1698638400000,
+   "last_t": 1793548800000,
+   "rows": 6592,
+   "sha256": "3c4939c611890032af69f051a1da7cd96252094d7922689c2c57124f27c53fdb"
+  },
+  "BTCUSDT_1h.csv.gz": {
+   "added": 9,
+   "first_t": 1698638400000,
+   "last_t": 1793566800000,
+   "rows": 26370,
+   "sha256": "c962506d4b292cad018060233538b78ba8860791c4e91ff1d0f6700fcb37d2fa"
+  },
+  "BTCUSDT_4h.csv.gz": {
+   "added": 2,
+   "first_t": 1698638400000,
+   "last_t": 1793548800000,
+   "rows": 6592,
+   "sha256": "4182ea698c6abc5216c91ebf325d9e31829392fd7941e1c952b649ca6b07b0e7"
+  },
+  "DOGEUSDT_1h.csv.gz": {
+   "added": 9,
+   "first_t": 1698638400000,
+   "last_t": 1793566800000,
+   "rows": 26370,
+   "sha256": "d3590b92ee0b46beed0676b99d68fc0e79646a90a8ac1851ea72f37ec20004b9"
+  },
+  "DOGEUSDT_4h.csv.gz": {
+   "added": 2,
+   "first_t": 1698638400000,
+   "last_t": 1793548800000,
+   "rows": 6592,
+   "sha256": "6a128554173c824bf577255ebb10d428be6e9fe12f74a5ce1779de0a5ea7ae5f"
+  },
+  "ETHUSDT_1h.csv.gz": {
+   "added": 9,
+   "first_t": 1698638400000,
+   "last_t": 1793566800000,
+   "rows": 26370,
+   "sha256": "e1168bdb21f003c014a387509156e0c192a0fb79231714d11f0d341c2ce6e91d"
+  },
+  "ETHUSDT_4h.csv.gz": {
+   "added": 2,
+   "first_t": 1698638400000,
+   "last_t": 1793548800000,
+   "rows": 6592,
+   "sha256": "87395241eeee426bc7aa5f2f8e5f340852a1030f8f40839867ff0f015a89b3d6"
+  },
+  "SOLUSDT_1h.csv.gz": {
+   "added": 9,
+   "first_t": 1698638400000,
+   "last_t": 1793566800000,
+   "rows": 26370,
+   "sha256": "61878bd7d164f9a738c4cde3e8744f70936b4283f5d230b503a18dc34f98d20c"
+  },
+  "SOLUSDT_4h.csv.gz": {
+   "added": 2,
+   "first_t": 1698638400000,
+   "last_t": 1793548800000,
+   "rows": 6592,
+   "sha256": "1ef4d9ce33a4e4a002ddd1f028f1baa34a3a3a2b593b5291d1f1c79375a4e58d"
+  },
+  "XRPUSDT_1h.csv.gz": {
+   "added": 9,
+   "first_t": 1698638400000,
+   "last_t": 1793566800000,
+   "rows": 26370,
+   "sha256": "8f8800891b434c4b11719a65c5c8f9a1ef54a7c45777688703f73e30ca82e769"
+  },
+  "XRPUSDT_4h.csv.gz": {
+   "added": 2,
+   "first_t": 1698638400000,
+   "last_t": 1793548800000,
+   "rows": 6592,
+   "sha256": "92dda4a65de6492190acae21f39d72cdb54deca3f6ecf0db8eaedf90195be3d9"
+  }
+ },
+ "generated_utc": "2026-11-01T22:04:27+00:00",
+ "source": "Binance public klines (data-api.binance.vision)"
+}
